@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 1,
+        "course" : "UX Design",
+        "img" : "https://i.ibb.co/2k3sDv8/pix11.jpg",
+        "detailes" : "Beginer to pro course",
+        "price" : "120$",
+        "rating" : "4",
+        "user" : "12k+"
+    },
+    {
+        "id" : 2,
+        "course" : "UI Design",
+        "img": "https://i.ibb.co/X4pwr7n/pix6.jpg",
+        "detailes" : "Beginer to pro course",
+        "price" : "110$",
+        "rating" : "5",
+        "user" : "12k+"
+    },
+    {
+        "id" : 3,
+        "course" : "Graphic Design",
+        "img": "https://i.ibb.co/Z1v3ByM/pix7.jpg",
+        "detailes" : "Beginer to pro course",
+        "price" : "100$",
+        "rating" : "3",
+        "user" : "12k+"
+    },
+    {
+        "id" : 4,
+        "course" : "Digital Marketing",
+        "detailes" : "Beginer to pro course",
+        "img":"https://i.ibb.co/Yy51YqL/pix8.jpg",
+        "price" : "100$",
+        "rating" : "3",
+        "user" : "12k+"
+    },
+    {
+        "id" : 5,
+        "course" : "Web Development",
+        "detailes" : "Beginer to pro course",
+        "img" : "https://i.ibb.co/b5QfTJy/pix9.jpg",
+        "price" : "120$",
+        "rating" : "4",
+        "user" : "12k+"
+    },
+    {
+        "id" : 6,
+        "course" : "Motion Graphic",
+        "detailes" : "Beginer to pro course",
+        "img":"https://i.ibb.co/hcpnJB0/pix10.jpg",
+        "price" : "160$",
+        "rating" : "5",
+        "user" : "12k+"
+    }
+]

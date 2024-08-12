@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+       "img" : "https://i.postimg.cc/g2ZNmNz3/pix0.png" ,
+       "name" : "Jon Doe",
+       "batch" : "4",
+       "course" : "UI/UX Design"
+
+    },
+    {
+        "id": 2,
+       "img" : "https://i.postimg.cc/g2ZNmNz3/pix0.png",
+       "name" : "Walter White",
+       "batch" : "2",
+       "course" : "graphics Design"
+
+    },
+    {
+        "id": 3,
+       "img" : "https://i.postimg.cc/g2ZNmNz3/pix0.png",
+       "name" : "Jesse Pinkman",
+       "batch" : "3",
+       "course" : "Digital Marketing"
+    },
+    {
+        "id": 4,
+       "img" : "https://i.postimg.cc/g2ZNmNz3/pix0.png",
+       "name" : "Gustavo Fring",
+       "batch" : "4",
+       "course" : "Web Development"
+    },
+    {
+        "id": 5,
+       "img" : "https://i.postimg.cc/g2ZNmNz3/pix0.png",
+       "name" : "Saul Goodman",
+       "batch" : "2",
+       "course" : "UI/UX Design"
+    },
+    {
+        "id": 6,
+       "img" : "https://i.postimg.cc/g2ZNmNz3/pix0.png",
+       "name" : "Ignacio Varga",
+       "batch" : "1",
+       "course" : "Mostion Graphics "
+    }
+    
+]

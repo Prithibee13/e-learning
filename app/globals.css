@@ -2,32 +2,48 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+.nav-btn
+{
+    background-color: #9F70FD;
+    color: #fff;
+}
+.title
+{
+    color: #793FDF;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+.iconColor
+{
+   color:  #7071E8;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.seedTitle
+{
+    color: #7071E8;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.ratingContainer
+{
+    color: #7071E8;
+}
+
+.legBanner
+{
+    
+    background:  url("../Assets/pix12.png") no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     
+}
+
+.bannerText
+{
+    color: #7071E8;
+}
+
+.bannerBtn
+{
+    background-color: #793FDF;
+    color: #fff;
 }
