@@ -11,7 +11,7 @@ const Reviews = async() =>
                     <h1 className="text-2xl font-bold">Our Success Student Review</h1>
                 </div>
                 <div>
-                    <button>View All</button>
+                    <button className='bannerBtn'>View All</button>
                 </div>
             </article>
 
