@@ -62,3 +62,11 @@
 {
     color: #10439F;
 }
+.viewMore
+{
+    background-color: #7071E8;
+    color : #fff;
+    height: 40px;
+    width: 125px;
+    border-radius: 5%;
+}
